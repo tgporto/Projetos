@@ -39,4 +39,3 @@ def fechar():
         
 
 roller()
-fechar()
