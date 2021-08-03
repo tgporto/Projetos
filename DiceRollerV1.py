@@ -38,4 +38,8 @@ def fechar():
         print("Boa sorte!")
         
 
+<<<<<<< HEAD
 roller()
+=======
+roller()
+>>>>>>> c1927626837b639084477b4080bbcba24ddc0b75
